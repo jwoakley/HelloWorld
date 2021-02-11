@@ -3,7 +3,7 @@
 function setup() {
   createCanvas(1920, 1080);
   textSize(80);
-  textAlign(Center);
+  textAlign(CENTER);
  }
 
 
